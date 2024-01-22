@@ -23,7 +23,7 @@ void main() {
   final func = printStuff();
   func();
 
-  // creating a  anonymous function inside it scope  the scope is before ; 
+  // creating a  anonymous function inside it scope  the scope is before ;
 
   print("second function call");
   () {
@@ -71,3 +71,7 @@ Function printStuff() {
     print("hello world");
   };
 }
+
+// Anonymous Functions
+// Function that don't have any name but behave like a function (block of code that can be executed ) are anonymous function
+void printing() => print('HI');
