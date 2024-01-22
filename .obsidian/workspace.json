@@ -142,11 +142,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,10 +162,12 @@
   },
   "active": "9b52f695f6d12d90",
   "lastOpenFiles": [
+    "Dart Progarmming/function.dart",
+    "Dart Progarmming/exercise_1.dart",
     "2024-01-15.md",
+    "Cross platform Mobile application development.md",
     "Dart Progarmming/Dart.md",
     "Flutter.md",
-    "Cross platform Mobile application development.md",
     "Napoli, Marco L - Beginning Flutter_ A Hands on Guide to App Development-Wrox Press (2019)(Z-Lib.io).pdf",
     "Welcome.md",
     "Dart Progarmming/datatype.dart",

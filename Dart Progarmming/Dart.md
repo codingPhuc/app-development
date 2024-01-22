@@ -89,7 +89,7 @@ When running code without generating a binary output, it's likely because it's e
      ```
 
 3. **String:**
-   - `String`: Represents sequences of characters, such as words or sentences.
+   - `String`: Represents sequences of characters, such as words or sPentences.
    - Example:
      ```dart
      String greeting = 'Hello, Dart!';
