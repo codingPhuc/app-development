@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "06431519b5ec6cd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-01-22.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dart Progarmming/Dart.md",
+                "file": "2024-01-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dart Progarmming/Dart.md",
+                "file": "2024-01-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dart Progarmming/Dart.md"
+                "file": "2024-01-22.md"
               }
             }
           }
@@ -160,13 +172,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b52f695f6d12d90",
+  "active": "06431519b5ec6cd9",
   "lastOpenFiles": [
+    "Dart Progarmming/result.dart",
+    "Dart Progarmming/d.dart",
+    "Untitled.md",
+    "2024-01-22.md",
+    "Dart Progarmming/Dart.md",
+    "Dart Progarmming/Inheritance.dart",
     "Dart Progarmming/function.dart",
     "Dart Progarmming/exercise_1.dart",
     "2024-01-15.md",
     "Cross platform Mobile application development.md",
-    "Dart Progarmming/Dart.md",
     "Flutter.md",
     "Napoli, Marco L - Beginning Flutter_ A Hands on Guide to App Development-Wrox Press (2019)(Z-Lib.io).pdf",
     "Welcome.md",
